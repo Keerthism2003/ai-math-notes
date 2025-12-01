@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Math Notes",
+  "description": "An AI-powered calculator that recognizes and solves handwritten mathematical expressions, inspired by iPad's Math Notes. Write down a problem, tap solve, and let the AI do the rest.",
+  "requestFramePermissions": []
+}
